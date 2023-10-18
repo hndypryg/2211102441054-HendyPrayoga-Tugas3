@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=hamster
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ hamster\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ gerak()
+comment3.params=
+comment3.target=void\ bom()
+comment4.params=
+comment4.target=void\ wortel()
+comment5.params=
+comment5.target=void\ kacang()
+comment6.params=
+comment6.target=void\ kuaci()
+numComments=7
